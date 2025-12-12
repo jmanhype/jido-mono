@@ -1,7 +1,0 @@
-id = "gpt-5-nano"
-
-[capabilities.json]
-schema = true
-
-[extra]
-api = "responses"

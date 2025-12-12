@@ -1,0 +1,18 @@
+[submodule "jido"]
+	path = jido
+	url = https://github.com/agentjido/jido.git
+[submodule "jido_action"]
+	path = jido_action
+	url = https://github.com/agentjido/jido_action.git
+[submodule "jido_signal"]
+	path = jido_signal
+	url = https://github.com/agentjido/jido_signal.git
+[submodule "jido_workbench"]
+	path = jido_workbench
+	url = https://github.com/agentjido/jido_workbench.git
+[submodule "req_llm"]
+	path = req_llm
+	url = https://github.com/agentjido/req_llm.git
+[submodule "llm_db"]
+	path = llm_db
+	url = https://github.com/agentjido/llm_db.git
